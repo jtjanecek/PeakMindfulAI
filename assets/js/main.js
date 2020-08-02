@@ -1,6 +1,6 @@
 var program_ver = '2018.0504';
 var userPrompt = '';
-var botPrompt = '[[b;#333;transparent]HelloBot][[;#333;transparent] ·] ';
+var botPrompt = '[[b;#333;transparent]Chatbot][[;#333;transparent] ·] ';
 
 var bot = new RiveScript();
 bot.loadFile(["assets/brain/hellobot.rive"], on_load_success, on_load_error);
