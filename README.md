@@ -1,7 +1,12 @@
-# HelloBot
+# PeakMindfulAI
+AI Prototype for Peak Mindful
 
-Just another AI chatbot built with [Jekyll](https://jekyllrb.com/), [rivescript-js](https://github.com/aichaos/rivescript-js), [Bootstrap](https://getbootstrap.com/), [jQueryTerminal](https://terminal.jcubic.pl/) and [jquery-mousewheel](https://github.com/jquery/jquery-mousewheel).
+Go here to test it out!
+https://jtjanecek.github.io/PeakMindfulAI
 
+
+
+Main source code from:
 Demo: https://heiswayi.github.io/hellobot
 
 ## Licensing
