@@ -32,7 +32,7 @@ $('.terminal').terminal(function(command, term) {
 	//}, 1000);
 }, {
   //prompt: '[[gb;#0c0;#000000]>_] ',
-  name: 'HelloBot',
+  name: 'Chatbot',
   onResize: set_size,
   history: false,
   greetings: null,
@@ -71,13 +71,7 @@ function botRespond(term, text) {
 
 function header(term) {
   term.echo(
-    '[[b;#333;transparent]' +
-    ' _____       _  _       _____       _   \n' +
-    '|  |  | ___ | || | ___ | __  | ___ | |_ \n' +
-    '|     || -_|| || || . || __ -|| . ||  _|\n' +
-    '|__|__||___||_||_||___||_____||___||_| v' + program_ver + '\n' +
-    ']' +
-    '[[;#666;transparent]Just another AI Chatbot from Heiswayi Nrird]\n\n'
+    '[[;#666;transparent]PeakMindful prototype by John Janecek - base code from Heiswayi Nrird]\n\n'
   );
 }
 
